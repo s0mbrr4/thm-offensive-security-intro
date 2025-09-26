@@ -13,6 +13,7 @@ En este laboratorio el objetivo principal era comprometer una página web de un 
 2. El escaneo devolvió dos resultados relevantes:
 - `/images` — da error al intentar acceder.
 - `/bank-transfer` — accesible.
+
 ![alt](images/command-image.png)
 3. Al acceder a `/bank-transfer` encontramos un portal de administración desde el que, introduciendo números de cuenta y una cantidad, es posible transferir fondos:
 ![alt](images/admin-image.png)
