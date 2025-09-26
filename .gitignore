@@ -1,0 +1,19 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+
+# Archivos de editor
+.vscode/
+.idea/
+
+# Backups
+*.bak
+*.old
+
+# Imágenes grandes originales (si no quieres subir todas)
+# /images_raw/
