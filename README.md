@@ -2,7 +2,7 @@
 
 **Reporte del laboratorio:** enumeración y explotación de `fakebank.thm`  
 **Herramientas:** gobuster  
-**Autor:** Alicia Blanco Fernández (o tu nombre)
+**Autor:** Alicia Blanco Fernández
 
 ## Resumen
 En este laboratorio se identificó un directorio `/bank-transfer` que permitía realizar transferencias sin autenticación. Se documenta el proceso de descubrimiento, pruebas y recomendaciones de mitigación.
@@ -22,4 +22,4 @@ En este laboratorio se identificó un directorio `/bank-transfer` que permitía 
 
 ---
 
-Si quieres ver más reportes o contactar: [tu-email] • [LinkedIn]
+Si quieres ver más reportes o contactar: s0mbrr4@gmail.com • https://www.linkedin.com/in/alicia-blanco-fernandez-783808378
